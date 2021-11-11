@@ -1,21 +1,18 @@
-﻿<Properties StartupConfiguration="{9ED5DF35-5D7F-455E-805B-4EDCEA571C5C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RootFinderAlgorithms/MathFunction.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{9ED5DF35-5D7F-455E-805B-4EDCEA571C5C}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="RootFinderAlgorithms/Program.cs" Line="66" Column="23" />
-      <File FileName="RootFinderAlgorithms/MathFunction.cs" Line="9" Column="1" />
+      <File FileName="RootFinderAlgorithms/Program.cs" Line="81" Column="1" />
+      <File FileName="RootFinderAlgorithms/MathFunction.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RootFinderAlgorithms" expanded="True">
             <Node name="RootFinderAlgorithms" expanded="True">
-              <Node name="MathFunction.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
