@@ -12,6 +12,7 @@ namespace RootFinderAlgorithms
 
             Console.WriteLine("\nRoot: {0}\n", BisectionMethod(MathFunctionA, 0, 0.5, 0.01));
             Console.WriteLine("\nRoot: {0}\n", NewtonRaphsonMethod(MathFunctionA, 0.5, 0.01));
+            Console.WriteLine("\nRoot: {0}\n", SecantMethod(MathFunctionA, 0, 0.5, 0.01));
         }
         static double BisectionMethod(MathFunction func, double startingA, double startingB, double maxError)
         {
@@ -83,6 +84,30 @@ namespace RootFinderAlgorithms
             } while (error > maxError);
 
             return x;
+        }
+        static double SecantMethod(MathFunction func, double startingX0, double startingX1, double maxError)
+        {
+            double x0 = startingX0;
+            double x1 = startingX1;
+            double error = 0;
+
+            Console.BackgroundColor = ConsoleColor.DarkGray;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("Secant Method\n");
+            Console.WriteLine("x_n-1\tx_n\tx_n+1\tf(x_n-1)\tf(x_n)\tf(x_n+1)\terror");
+            Console.ResetColor();
+
+            do
+            {
+                double xPlusOne = x1 - ((x1 - x0) / (func.Evaluate(x1) - func.Evaluate(x0))) * func.Evaluate(x1);
+                error = Math.Abs((xPlusOne - x1) / xPlusOne);
+
+                Console.WriteLine("{0:0.0000}\t{1:0.00}\t{2:0.0000}\t{3:0.0000}\t\t{4:0.0000}\t{5:0.0000}\t\t{6:0.0000}", x0, x1, xPlusOne, func.Evaluate(x0), func.Evaluate(x1), func.Evaluate(xPlusOne), error);
+                x0 = x1;
+                x1 = xPlusOne;
+            } while (error > maxError);
+
+            return (x0 + x1)/2;
         }
     }
 }

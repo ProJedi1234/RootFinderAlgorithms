@@ -1,5 +1,5 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{9ED5DF35-5D7F-455E-805B-4EDCEA571C5C}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RootFinderAlgorithms/Program.cs">
     <Files>
       <File FileName="RootFinderAlgorithms/Program.cs" Line="81" Column="1" />
       <File FileName="RootFinderAlgorithms/MathFunction.cs" />
