@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9ED5DF35-5D7F-455E-805B-4EDCEA571C5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RootFinderAlgorithms/MathFunction.cs">
+    <Files>
+      <File FileName="RootFinderAlgorithms/Program.cs" Line="66" Column="23" />
+      <File FileName="RootFinderAlgorithms/MathFunction.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RootFinderAlgorithms" expanded="True">
+            <Node name="RootFinderAlgorithms" expanded="True">
+              <Node name="MathFunction.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RootFinderAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

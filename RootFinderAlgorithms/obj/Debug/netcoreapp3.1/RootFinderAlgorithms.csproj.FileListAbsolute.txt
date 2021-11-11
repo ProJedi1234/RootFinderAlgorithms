@@ -1,0 +1,13 @@
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/bin/Debug/netcoreapp3.1/RootFinderAlgorithms.deps.json
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/bin/Debug/netcoreapp3.1/RootFinderAlgorithms.runtimeconfig.json
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/bin/Debug/netcoreapp3.1/RootFinderAlgorithms.runtimeconfig.dev.json
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/bin/Debug/netcoreapp3.1/RootFinderAlgorithms.dll
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/bin/Debug/netcoreapp3.1/RootFinderAlgorithms.pdb
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.csproj.AssemblyReference.cache
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.AssemblyInfoInputs.cache
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.AssemblyInfo.cs
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.csproj.CoreCompileInputs.cache
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.dll
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.pdb
+/Users/adityadhar/Documents/Cal Poly Pomona/CS 3010 Numerical Methods/Project 3/RootFinderAlgorithms/RootFinderAlgorithms/obj/Debug/netcoreapp3.1/RootFinderAlgorithms.genruntimeconfig.cache
