@@ -102,7 +102,7 @@ namespace RootFinderAlgorithms
                 double xPlusOne = x1 - ((x1 - x0) / (func.Evaluate(x1) - func.Evaluate(x0))) * func.Evaluate(x1);
                 error = Math.Abs((xPlusOne - x1) / xPlusOne);
 
-                Console.WriteLine("{0:0.0000}\t{1:0.00}\t{2:0.0000}\t{3:0.0000}\t\t{4:0.0000}\t{5:0.0000}\t\t{6:0.0000}", x0, x1, xPlusOne, func.Evaluate(x0), func.Evaluate(x1), func.Evaluate(xPlusOne), error);
+                Console.WriteLine("{0:0.0000}\t{1:0.0000}\t{2:0.0000}\t{3:0.0000}\t\t{4:0.0000}\t{5:0.0000}\t\t{6:0.0000}", x0, x1, xPlusOne, func.Evaluate(x0), func.Evaluate(x1), func.Evaluate(xPlusOne), error);
                 x0 = x1;
                 x1 = xPlusOne;
             } while (error > maxError);
