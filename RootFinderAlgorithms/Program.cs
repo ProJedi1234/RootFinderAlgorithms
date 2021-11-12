@@ -10,6 +10,11 @@ namespace RootFinderAlgorithms
             Func<double, double> derFuncA = x => 6 * Math.Pow(x, 2) - 23.4 * x + 17.7;
             var MathFunctionA = new MathFunction(funcA, derFuncA, "2x^3 – 11.7x^2 + 17.7x – 5");
 
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("Equation: " + MathFunctionA.description);
+            Console.ResetColor();
+
             Console.WriteLine("\nRoot: {0}\n", BisectionMethod(MathFunctionA, 0, 0.5, 0.01));
             Console.WriteLine("\nRoot: {0}\n", NewtonRaphsonMethod(MathFunctionA, 0.5, 0.01));
             Console.WriteLine("\nRoot: {0}\n", SecantMethod(MathFunctionA, 0, 0.5, 0.01));
